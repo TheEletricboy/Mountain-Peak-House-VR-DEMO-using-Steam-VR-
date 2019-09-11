@@ -1,4 +1,4 @@
-# Mountain-Peak-House-VR-DEMO-using-Steam-VR-
+# Mountain Peak House VR DEMO using Steam VR
 This is a project testing large map creation with snow, ice textures in VR
 
 ## Summary of Project
